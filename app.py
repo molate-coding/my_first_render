@@ -1,5 +1,5 @@
-import streamlit as st
+ï»¿import streamlit as st
 
-st.header('Jogando uma moeda')
+st.header("Jogando uma moeda")
 
-st.write('Ainda não é um aplicativo funcional. Em construção.')
+st.write("Ainda nao e um aplicativo funcional. Em construcao.")
